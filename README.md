@@ -50,7 +50,7 @@ I believe quality isn't just a process—it's a mindset. 💡
 
 ## 🛠️ Languages and Tools
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)  ![WebdriverIO](https://img.shields.io/badge/-WebdriverIO-red?logo=webdriverio)  ![Mocha](https://img.shields.io/badge/-Mocha-brown?logo=mocha)  ![Postman](https://img.shields.io/badge/-Postman-orange?logo=postman)  ![MongoDB](https://img.shields.io/badge/-MongoDB-green?logo=mongodb)  ![MySQL](https://img.shields.io/badge/-MySQL-blue?logo=mysql)  /![Git](https://img.shields.io/badge/-Git-black?logo=git)  ![Linux](https://img.shields.io/badge/-Linux-black?logo=linux)  ![Allure](https://img.shields.io/badge/-Allure-purple?logo=allure)  ![VSCode](https://img.shields.io/badge/-VS%20Code-blue?logo=visual-studio-code)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)  ![WebdriverIO](https://img.shields.io/badge/-WebdriverIO-red?logo=webdriverio)  ![Mocha](https://img.shields.io/badge/-Mocha-brown?logo=mocha)  ![Postman](https://img.shields.io/badge/-Postman-orange?logo=postman)  ![MongoDB](https://img.shields.io/badge/-MongoDB-green?logo=mongodb)  ![MySQL](https://img.shields.io/badge/-MySQL-blue?logo=mysql)  ![Git](https://img.shields.io/badge/-Git-black?logo=git)  ![Linux](https://img.shields.io/badge/-Linux-black?logo=linux)  ![Allure](https://img.shields.io/badge/-Allure-purple?logo=allure)  ![VSCode](https://img.shields.io/badge/-VS%20Code-blue?logo=visual-studio-code)
 
 ---
 
