@@ -25,8 +25,6 @@ I believe quality isn't just a process—it's a mindset. 💡
 - Database Testing  
 
 
-📫 **How to reach me:**  himanidaskoli@gmail.com 
-
 ---
 
 ## 🧠 Skills
