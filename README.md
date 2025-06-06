@@ -66,4 +66,8 @@ _“Quality is never an accident; it is always the result of intelligent effort.
 
 ---
 
-Thanks for visiting my profile! Let’s grow together in the world of Quality Assurance! 🚀
+
+
+## 📊 GitHub Activity Graph
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HimaniDas&theme=dracula)](https://github.com/HimaniDas)
