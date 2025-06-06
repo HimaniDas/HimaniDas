@@ -29,22 +29,24 @@ I believe quality isn't just a process—it's a mindset. 💡
 
 ## 🧠 Skills
 
-**Software Testing:**  
-✔️ Manual Testing  
-✔️ Automation Testing  
-✔️ API Testing with Postman & Newman  
-✔️ Database Testing (SQL & MongoDB)
+### 🧪 Software Testing
+![Manual Testing](https://img.shields.io/badge/-Manual%20Testing-239B56?style=for-the-badge)
+![Automation Testing](https://img.shields.io/badge/-Automation%20Testing-F39C12?style=for-the-badge)
+![API Testing](https://img.shields.io/badge/-API%20Testing-1F618D?style=for-the-badge&logo=postman)
+![Database Testing](https://img.shields.io/badge/-Database%20Testing-7D3C98?style=for-the-badge&logo=mysql)
 
-**Test Automation:**  
-✔️ JavaScript  
-✔️ WebdriverIO  
-✔️ Mocha  
-✔️ Page Object Model  
-✔️ Allure Reports
+### ⚙️ Test Automation
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![WebdriverIO](https://img.shields.io/badge/-WebdriverIO-E10098?style=for-the-badge&logo=webdriverio)
+![Mocha](https://img.shields.io/badge/-Mocha-8D6748?style=for-the-badge&logo=mocha)
+![Page Object Model](https://img.shields.io/badge/-Page%20Object%20Model-34495E?style=for-the-badge)
+![Allure Reports](https://img.shields.io/badge/-Allure%20Reports-8E44AD?style=for-the-badge)
 
-**Issue Tracking & Test Management:**  
-✔️ Jira  
-✔️ TestRail
+### 📋 Issue Tracking & Test Management
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira)
+![TestRail](https://img.shields.io/badge/-TestRail-138D75?style=for-the-badge)
+[![Jam Recorder](https://img.shields.io/badge/-Jam%20Recorder-FF4C00?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chrome.google.com/webstore/detail/jam-recorder-screen-audi/baohinapilmjlhimobohjodohpdldama)
+
 
 ---
 
