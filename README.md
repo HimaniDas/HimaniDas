@@ -15,9 +15,6 @@ I'm a passionate and detail-oriented **Software Quality Assurance (SQA) Engineer
 I believe quality isn't just a process—it's a mindset. 💡
 
 
-👨‍💻 **All of my projects are available at:**  [GitHub - HimaniDas](https://github.com/HimaniDas)
-
-
 💬 **Ask me about:**  
 - Manual Testing  
 - Automation Testing  
@@ -60,7 +57,6 @@ I believe quality isn't just a process—it's a mindset. 💡
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/himanidas08/)  
 - 📧 Email: himanidaskoli@gmail.com  
-- 🌐 GitHub: [HimaniDas](https://github.com/HimaniDas)
 
 ---
 
@@ -72,4 +68,4 @@ _“Quality is never an accident; it is always the result of intelligent effort.
 
 ## 📊 GitHub Activity Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HimaniDas&theme=dracula)](https://github.com/HimaniDas)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HimaniDas&theme=react&hide_border=true)](https://github.com/HimaniDas)
