@@ -15,13 +15,6 @@ I'm a passionate and detail-oriented **Software Quality Assurance (SQA) Engineer
 I believe quality isn't just a process—it's a mindset. 💡
 
 
-💬 **Ask me about:**  
-- Manual Testing  
-- Automation Testing  
-- API Testing  
-- Database Testing  
-
-
 ---
 
 ## 🧠 Skills
