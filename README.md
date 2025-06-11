@@ -5,6 +5,8 @@
 ## 🎯 About Me
 I'm a passionate and detail-oriented **Software Quality Assurance (SQA) Engineer** with a solid foundation in both **manual** and **automation testing**. I thrive on identifying bugs, improving user experience, and ensuring flawless software delivery! 🐞✨
 
+🎓 I’ve completed my BSc in **Computer Science & Engineering (CSE)** from [Premier University](https://www.puc.ac.bd/)
+
 ✅ Recently graduated **SQA – Manual & Automation Testing** program, where I built practical experience in real-world testing scenarios using tools like **WebdriverIO**, **Selenium**, **Postman**, **Allure**, and more.
 
 🚀 Currently, I’m:
