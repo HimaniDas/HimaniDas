@@ -44,6 +44,7 @@ I believe quality isn't just a process—it's a mindset. 💡
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb) 
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
