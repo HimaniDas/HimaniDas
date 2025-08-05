@@ -1,4 +1,4 @@
-# 👋 Hi! I'm Himani Das
+# 👋 Hi! I'm Himani
 
 📍 Based in Bangladesh  
 
