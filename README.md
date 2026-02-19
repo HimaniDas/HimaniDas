@@ -10,7 +10,7 @@ I'm a passionate and detail-oriented **Software Quality Assurance (SQA) Engineer
 ✅ Recently graduated **SQA – Manual & Automation Testing** program, where I built practical experience in real-world testing scenarios using tools like **WebdriverIO**, **Selenium**, **Postman**, **Allure**, and more.
 
 🚀 Currently, I’m:
-- Developing new test automation projects using **Playwright**
+- Developing new test automation projects using **Appium**
 - Exploring **CI/CD** with **GitHub Actions**
 - Contributing to **live mobile applications** through both manual and automation testing
 
